@@ -1,0 +1,11 @@
+Start: Thu, 30 Apr 2015 15:19:00 -0800
+End: Thu, 30 Apr 2015 17:27:00 -0800
+Tasks: Started and finished multtable.php
+
+Start: Thu, 30 Apr 2015 17:27:00 -0800
+End: Thu, 30 Apr 2015 19:27:00 -0800
+Tasks: Started and finished loopback.php
+
+Start: Thu, 30 Apr 2015 19:27:00 -0800
+End: Thu, 30 Apr 2015 22:00:00 -0800
+Tasks: Started login.php, content1.php, content2.php. Having trouble on redirects and what knowing what exactly the instructions are asking for.
