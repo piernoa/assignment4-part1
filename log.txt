@@ -9,3 +9,7 @@ Tasks: Started and finished loopback.php
 Start: Thu, 30 Apr 2015 19:27:00 -0800
 End: Thu, 30 Apr 2015 22:00:00 -0800
 Tasks: Started login.php, content1.php, content2.php. Having trouble on redirects and what knowing what exactly the instructions are asking for.
+
+Start: Fri, 1 May 2015 07:27:00 -0800
+End: Fri, 1 May 2015 09:04:00 -0800
+Tasks: Finished login.php redirects and cleaned up project and tested on OSU server. 
